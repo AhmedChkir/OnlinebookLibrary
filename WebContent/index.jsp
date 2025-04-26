@@ -53,10 +53,8 @@
               <p class="card-text">Isolated in the barren stretches of Icewind Dale the villages of Ten-Towns come under attack by a tribe of barbarians. In the midst of battle a young barbarian named Wulfgar ends up owing five years of his life to a grizzled dwarf. With the help of Drizzt , a renegade dark elf, the dwarf strives to mold the barbarian into a warrior with both brawn and brains..</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <a href="https://archive.org/details/crystalshard00salv/page/160/mode/2up?view=theater" class="nav-link px-2 text-black"> view</a>
-          
+                  <a href="https://archive.org/details/crystalshard00salv/page/160/mode/2up?view=theater" class="btn btn-sm btn-outline-secondary">View Book</a>
                 </div>
-                
               </div>
             </div>
           </div>
@@ -68,7 +66,7 @@
               <p class="card-text">Today Miss Chandler gave me this beautiful book. I vow that I will never forget her kindness to me, and I will use this book as she told me to—that I will write in it with truth and refinement…But who could be refined living at Steeple Farm?</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <a href="https://archive.org/details/hiredgirl0000schl/mode/2up?view=theater" class="nav-link px-2 text-black" > view</a>
+                  <a href="https://archive.org/details/hiredgirl0000schl/mode/2up?view=theater" class="btn btn-sm btn-outline-secondary">View Book</a>
                 </div>
               </div>
             </div>
@@ -81,10 +79,8 @@
               <p class="card-text">In hundreds of dictionary-type entries, ranging from "Acronyms" to "Y'know," the author of "Our Marvellous Native Tongue" insists on clarity as the touchstone of good usage</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <a href="https://archive.org/details/sayingwhatyoumea00clai?view=theater" class="nav-link px-2 text-black" > view</a>
-                 
+                  <a href="https://archive.org/details/sayingwhatyoumea00clai?view=theater" class="btn btn-sm btn-outline-secondary">View Book</a>
                 </div>
-       
               </div>
             </div>
           </div>
@@ -97,7 +93,7 @@
               <p class="card-text">"Yukon Ho!" is a fun and adventurous comic book from the Calvin and Hobbes series by Bill Watterson. It follows a young boy, Calvin, and his tiger friend, Hobbes, as they plan a wild trip to the Yukon, explore the outdoors, and get into hilarious mischief. Full of imagination and humor!</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <a href="https://archive.org/details/yukonho00bill?view=theater" class="nav-link px-2 text-black" > view</a>
+                  <a href="https://archive.org/details/yukonho00bill?view=theater" class="btn btn-sm btn-outline-secondary">View Book</a>
                 </div>
               </div>
             </div>
@@ -110,7 +106,7 @@
               <p class="card-text">The Tempest is a play by William Shakespeare, believed to have been written in 1610–11, and thought by many critics to be the last play that Shakespeare wrote alone. It is set on a remote island, where Prospero, the rightful Duke of Milan, plots to restore his daughter Miranda to her rightful place using illusion and skilful manipulation. He conjures up a storm, the eponymous tempest, to lure his usurping brother Antonio and the complicit King Alonso of Naples to the island.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <a href="https://archive.org/details/tempest0000shak_p4m4?view=theater" class="nav-link px-2 text-black" > view</a>
+                  <a href="https://archive.org/details/tempest0000shak_p4m4?view=theater" class="btn btn-sm btn-outline-secondary">View Book</a>
                 </div>
               </div>
             </div>
@@ -123,7 +119,7 @@
               <p class="card-text">Selected Poems is compiled from the best works in Jean Garrigue's eight published collections. It also includes some uncollected poems drawn from the archive of her manuscripts in the Berg Collection of the New York Public Library. From its beginning, Garrigue's poetry reveals a remarkable richness and originality of imagery combined with an emotional intensity approaching transcendence. Human love in all its dimensions is a continuing preoccupation of her work, yet her.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <a href="https://archive.org/details/selectedpoems0000garr/mode/2up?view=theater" class="nav-link px-2 text-black" > view</a>
+                  <a href="https://archive.org/details/selectedpoems0000garr/mode/2up?view=theater" class="btn btn-sm btn-outline-secondary">View Book</a>
                 </div>
               </div>
             </div>
@@ -134,10 +130,10 @@
           <div class="card shadow-sm">
             <img src="https://ia802309.us.archive.org/view_archive.php?archive=/20/items/l_covers_0008/l_covers_0008_78.zip&file=0008784714-L.jpg" class="img">
             <div class="card-body">
-              <p class="card-text">Daddy’s Little Girl de Ronne Randall est un livre illustré touchant qui célèbre l’amour entre un père et sa fille. On y suit Emily et son papa à travers leurs moments quotidiens : jeux, lectures, école, et complicité. Un bel album plein de tendresse, idéal pour les enfants de 4 à 8 ans.</p>
+              <p class="card-text">Daddy's Little Girl de Ronne Randall est un livre illustré touchant qui célèbre l'amour entre un père et sa fille. On y suit Emily et son papa à travers leurs moments quotidiens : jeux, lectures, école, et complicité. Un bel album plein de tendresse, idéal pour les enfants de 4 à 8 ans.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <a href="https://archive.org/details/daddyslittlegirl0000rand?view=theater" class="nav-link px-2 text-black" > view</a>
+                  <a href="https://archive.org/details/daddyslittlegirl0000rand?view=theater" class="btn btn-sm btn-outline-secondary">View Book</a>
                 </div>
               </div>
             </div>
@@ -150,9 +146,8 @@
               <p class="card-text">"An ancient evil roams the blasted, nightmare country, an evil as old as time. He is the Man with the Scarlet Eye, the Man of Many Faces, gathering under his power the forces of human greed and madness. He is seeking to destroy a child, the one called Swan."--Cover.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <a href="https://archive.org/details/swansong00mcca/mode/2up?view=theater" class="nav-link px-2 text-black" > view</a>
+                  <a href="https://archive.org/details/swansong00mcca/mode/2up?view=theater" class="btn btn-sm btn-outline-secondary">View Book</a>
                 </div>
-               
               </div>
             </div>
           </div>
@@ -164,7 +159,7 @@
               <p class="card-text">In the frigid pre-dawn hours, in a distressed Midwestern city, hundreds of desperate unemployed folks are lined up for a spot at a job fair. Without warning, a lone driver plows through the crowd in a stolen Mercedes, running over the innocent, backing up, and charging again. Eight people are killed; fifteen are wounded. </p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <a href="https://archive.org/details/mistmersedes0000king/mode/2up?view=theater" class="nav-link px-2 text-black" > view</a>
+                  <a href="https://archive.org/details/mistmersedes0000king/mode/2up?view=theater" class="btn btn-sm btn-outline-secondary">View Book</a>
                 </div>
               </div>
             </div>
