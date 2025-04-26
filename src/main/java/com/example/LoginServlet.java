@@ -1,7 +1,6 @@
 package com.example;
 
 import java.io.IOException;
-import java.io.PrintWriter;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
@@ -15,6 +14,8 @@ import jakarta.servlet.http.HttpSession;
 
 @WebServlet("/OnlineBookLibrary/login")
 public class LoginServlet extends HttpServlet {
+    private static final long serialVersionUID = 1L;
+    
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         String email = request.getParameter("email");
         String password = request.getParameter("password");
@@ -49,4 +50,4 @@ public class LoginServlet extends HttpServlet {
             response.sendRedirect("login.jsp?error=1");
         }
     }
-}
+} 
